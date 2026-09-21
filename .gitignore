@@ -151,3 +151,16 @@ documents/*
 # Intake fingerprints — the recorded source filenames may themselves carry
 # PII (e.g. cv/jane-doe-master-cv.pdf). #1723
 data/intake-state.json
+package-lock.json
+modes/apply.md
+modes/auto-pipeline.md
+modes/contacto.md
+modes/deep.md
+modes/oferta.md
+modes/ofertas.md
+modes/pdf.md
+modes/pipeline.md
+modes/project.md
+modes/tracker.md
+modes/training.md
+>>>>>>> Stashed changes
